@@ -1,0 +1,85 @@
+@startuml Diagrama_ER_Tapas_Barcelona
+
+' --- Entidades ---
+entity Bar {
+  * id_bar (PK)
+  --
+  nom
+  direccio
+  barri
+  horari
+}
+
+entity Tapa {
+  * id_tapa (PK)
+  * id_bar(FK)
+  * id_consumicio(FK)
+  --
+  nombre
+  descripcio
+  preu_base
+}
+
+entity Ingredient {
+  * id_ingredient (PK)
+  * id_tapa (FK)
+  --
+  nom
+  es_alergen
+}
+entity Alergen {
+  * id_alergen
+  --
+  nom
+  _efectes
+}
+
+entity Client {
+  * id_cliente (PK)
+  --
+  nom
+  mail
+  genere
+  es_alergen
+}
+
+entity Consumicio {
+  * id_consumicio (PK)
+  * id_bar (FK)
+  * id_cliente (FK)
+  --
+  preu_total
+  data_hora
+  nota
+}
+
+entity InfoConsumicio {
+* id_consumicio (PK)
+* id_tapa (PK)
+--
+quantitat
+}
+
+' --- Relaciones ---
+Bar ||--o{ Tapa : "Serveix"
+Bar }o--||Consumicio : "Cobra/Efectua"
+Consumicio }o--||InfoConsumicio : "Conte"
+InfoConsumicio||--||Tapa : "Es consumida"
+Tapa }o--|| Ingredient : "Conte"
+Ingredient}o--o{Alergen : "Pot ser"
+
+Client}o--o{Alergen : "Pot ser"
+Client}o--o{ Consumicio : "Realiza"
+
+
+' --- Notas adicionales ---
+note right of Tapa::tipo
+  Ej: "Vegana", "Sin gluten"
+end note
+
+note right of Consumicio
+  Registra pedidos completos
+  con fecha/hora
+end note
+
+@enduml
