@@ -1,0 +1,15 @@
+INSERT INTO alergen (nom, efectes) VALUES 
+('Gluten', 'dolors abdominals, inflor, diarrea'),
+('Llet', 'reaccions cutànies, dificultat per respirar'),
+('Ou', 'urticària, vòmits, problemes respiratoris'),
+('Peix', 'erupcions, picor, dificultat respiratòria'),
+('Crustacis', 'inflor de llavis, xoc anafilàctic'),
+('Soja', 'problemes digestius, eczema'),
+('Fruits secs', 'xoc anafilàctic, urticària, dificultat per empassar'),
+('Api', 'urticària, asma, inflor facial'),
+('Mostassa', 'dolors abdominals, congestió nasal'),
+('Sèsam', 'urticària, xoc anafilàctic'),
+('Sulfits', 'dificultat per respirar, asma'),
+('alergen vegetaria', 'no apte per vegetarians'),
+('alergen vega', 'no apte per vegans'),
+('alergen', 'producte potencialment perillós per persones al·lèrgiques');

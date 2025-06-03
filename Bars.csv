@@ -1,52 +1,21 @@
-id_bar;nombre;direccion;barrio;apertura
-BAR-001;La Cova Fumada;Carrer del Baluard, 56;Ciutat Vella;09:00-15:00
-BAR-002;La Bombeta;Carrer de la Maquinista, 3;Ciutat Vella;12:00-00:00
-BAR-003;El Vaso de Oro;Carrer de Balboa, 6;Ciutat Vella;12:00-00:00
-BAR-004;Quimet & Quimet;Carrer del Poeta Cabanyes, 25;Sants-Montjuï;12:00-16:00, 18:00-22:30
-BAR-005;Bodega Joan;Carrer del Rosselló, 16;Eixample;07:00-01:00
-BAR-006;Bar El Tomá;Major de Sarrià, 4;Sarri�;12:30-16:00, 18:30-22:00
-BAR-007;Bar La Plata;Carrer de la Mercè, 2;Ciutat Vella;11:30-15:00, 18:00-23:00
-BAR-008;Bar Ramó;Carrer del Comte Borrell, 81;Sants-Montjuï;08:00-23:00
-BAR-009;Bar Jai-ca;Carrer de Ginebra, 13;Ciutat Vella;09:00-23:00
-BAR-010;Bar Gol;Carrer del Parlament, 10;Eixample (S.A.);12:00-00:00
-BAR-011;La Esquinica;Passeig de Fabra i Puig, 296;Nou Barris;08:00-16:00, 19:00-23:00
-BAR-012;Can Cargolet;Carrer del Comte d’Urgell, ;Eixample;12:00-23:00
-BAR-013;Can Marlau;Carrer de París, 16;Eixample;13:00-16:00, 20:00-23:00
-BAR-014;Quimet d’Hor;Plaça d’Eivissa,;Horta-Guinard�;08:00-23:00
-BAR-015;Contracorrent;Carrer de Ribes, 35;Eixample;12:00-00:00
-BAR-016;Bar El Pollo;Carrer del Tigre, 31;Ciutat Vella;10:00-00:00
-BAR-017;Pollería Fontan;Carrer de Sant Lluís, ;Gràci;09:00-23:00
-BAR-018;Quim de la Boquerí;Mercat de la Boqueria, La Rambla, 91;Ciutat Vella;07:00-16:00
-BAR-019;Tremendo Bar;Carrer del Consell de Cent, 12;Sants-Montjuï;12:00-00:00
-BAR-020;La Carol;Carrer d’Aragó, ;Sant Mart�;09:00-23:30
-BAR-021;La Cañad;Carrer de Manso, 22;Eixample;12:00-16:00, 19:00-23:00
-BAR-022;Pimentel;Carrer dels Carders, 11;Ciutat Vella;12:00-00:00
-BAR-023;Casa Pepi;Carrer de la Sèquia Comtal, ;Sant Mart�;13:00-16:00, 20:00-23:00
-BAR-024;Públic;Carrer d’Enric Granados, ;Eixample;13:00-00:00
-BAR-025;Bar Cany�;Carrer de Viladomat, 11;Eixample;12:00-16:00, 20:00-23:00
-BAR-026;Tapas24;Carrer de la Diputació, 26;Eixample;12:00-01:00
-BAR-027;Maná 7;Passeig de Joan de Borbó, 10;Ciutat Vella;12:00-22:30
-BAR-028;Croma by Flash;Avinguda Diagonal, 640;Les Corts;13:00-16:00, 20:00-23:00
-BAR-029;La Monroe;Plaça Salvador Seguí, 1;Ciutat Vella;12:00-00:00
-BAR-030;Cañet;Carrer de la Unió, 1;Ciutat Vella;13:00-16:00, 19:00-23:30
-BAR-031;La Flauta;Carrer d’Aribau, ;Eixample;07:00-01:00
-BAR-032;Cerveseria Catalana;Carrer de Mallorca, 236;Eixample;08:00-01:30
-BAR-033;Bar Raspall;Carrer Samsó, ;Gràci;10:00-00:00
-BAR-034;Cal Robert;Carrer de Requesens, 7;Ciutat Vella;12:00-23:00
-BAR-035;Bodega La Peninsular;Carrer del Mar, 29;Ciutat Vella;12:30-00:00
-BAR-036;Bar Bodega Quimet;Carrer de Vic, 23;Gràci;11:00-23:30
-BAR-037;Bodega Sepúlved;Carrer de Sepúlveda, 17;Ciutat Vella;12:00-16:00, 20:00-00:00
-BAR-038;Maitea;Carrer de Casanova, 155;Eixample;13:00-16:00, 20:00-23:00
-BAR-039;Taktika Berri;Carrer de València, 16;Eixample;13:00-16:00, 20:00-23:00
-BAR-040;Txapela;Plaça de Catalunya, ;Ciutat Vella;11:30-23:30
-BAR-041;Txapeldun Egarri;Passeig de Fabra i Puig, 159;Sant Andreu;12:00-16:00, 19:00-23:00
-BAR-042;La Tasqueta de Blai;Carrer de Blai, 15;Sants-Montjuï;12:00-00:00
-BAR-043;Ciutat Comtal;Rambla de Catalunya, 18;Eixample;08:00-01:00
-BAR-044;Casa Moritz;Ronda de Sant Antoni, 39;Ciutat Vella;12:00-00:00
-BAR-045;Senyor Vermut;Carrer de Provença, 8;Eixample;12:00-16:00, 19:00-23:00
-BAR-046;Mediamanga;Carrer d’Aribau, ;Eixample;13:00-16:00, 20:00-23:30
-BAR-047;Boro Bar;Carrer de la Diputació, 28;Eixample;12:00-00:00
-BAR-048;Babula Bar 1937;Carrer de Pau Claris, 139;Eixample;13:00-01:00
-BAR-049;Dos Pebrots;Carrer del Doctor Dou, 19;Ciutat Vella;13:00-16:00, 20:00-23:00
-BAR-050;La Ceba;Carrer de la Perla, 10;Gràci;12:00-16:00, 19:00-23:00
-BAR-051;Les Truites;Carrer d’Arimon, ;Sarrià-Sant Gervas;13:00-22:00
+"nom,direccio,barri,horari"
+"Bar Nuri,Rambla del Poblenou 34,08005,10:00-24:00"
+"Bar La Unió,Plaça de la Unió 6,08005,6:00-17:00"
+"Corte de Manga,Carrer del Comte d'Urgell 108,08015,8:00-1:00"
+"El Bandarra Taperia,Carrer de Torrijos 53,08012,12:00-24:00"
+"Veridis Quo,Carrer del Bruc 80,08009,17:30-23:00"
+"Bar Electricitat,Carrer de Sant Carles 15,08003,8:00-17:00"
+"Bar Jai-Ca,Carrer de Ginebra 13,08003,8:00-23:00"
+"Bar Tapas Barceloneta,Plaça de Julio González 10,08005,8:00-24:00"
+"La Pubilla del Taulat,Carrer de Marià Aguiló 131,08005,9:00-23:00"
+"La bodegueta de Gràcia,Carrer de Sant Lluís 103,08024,11:30–23:00"
+"Bodega La Puntual,Carrer de Montcada 22,08003,12:30–24:00"
+"Sabor de Barrio,Carrer dels Assaonadors 25,08003,12:300–24:00"
+"Bar Piñol,Carrer d'Andrea Dòria 28,08003,7:30–23:00"
+"Bar Bitácora,Carrer de Balboa 1,08003,12:00–23:00"
+"Senyor Vermut,Carrer de Provença 85,08029,12:00–23:00"
+"Xador,Plaça de la Concòrdia 4,08014,16:00–1:00"
+"Restaurante La Cova Fumada,Carrer del Baluard 56,08003,9:00–15:00"
+"Bar La Platjeta,Carrer de la Maquinista 11,08003,12:00-23:00"
+"L'Òstia de la Barceloneta,Plaça de la Barceloneta 1,08003,10:00–23:30"
+"La Bombeta,Carrer de la Maquinista 3,08003,8:00–24:00"
